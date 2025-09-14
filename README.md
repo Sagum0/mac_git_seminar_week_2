@@ -1,1 +1,1 @@
-# mac_git_seminar_week_2
+## MAC Git Seminar Week 2 Repo!
